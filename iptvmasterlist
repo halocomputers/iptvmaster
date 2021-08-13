@@ -1,0 +1,275 @@
+#EXTM3U
+#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="Channels",UK: BBC 1 FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110083.m3u8
+#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="Channels",UK: BBC 1 SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110082.m3u8
+#EXTINF:0 tvg-id="BBC2.uk" group-title="Channels",UK: BBC 2 FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110081.m3u8
+#EXTINF:0 tvg-id="BBC2.uk" group-title="Channels",UK: BBC 2 SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110080.m3u8
+#EXTINF:0 tvg-id="ITV1London.uk" group-title="Channels",UK: ITV1 FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110079.m3u8
+#EXTINF:0 tvg-id="ITV1London.uk" group-title="Channels",UK: ITV1 SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110078.m3u8
+#EXTINF:0 tvg-id="Channel4.uk" group-title="Channels",UK: Channel 4 FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110077.m3u8
+#EXTINF:0 tvg-id="Channel4.uk" group-title="Channels",UK: Channel 4 SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110076.m3u8
+#EXTINF:0 tvg-id="Channel5.uk" group-title="Channels",UK: Channel 5 FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110075.m3u8
+#EXTINF:0 tvg-id="Channel5.uk" group-title="Channels",UK: Channel 5 SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110074.m3u8
+#EXTINF:0 tvg-id="Sky1.uk" group-title="Channels",UK: Sky One FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110073.m3u8
+#EXTINF:0 tvg-id="Sky1.uk" group-title="Channels",UK: Sky One SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110072.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Sky Witness FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110071.m3u8
+#EXTINF:0 tvg-id="SkyAtlantic.uk" group-title="Channels",UK: Sky Atlantic SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110070.m3u8
+#EXTINF:0 tvg-id="SkyAtlantic.uk" group-title="Channels",UK: Sky Atlantic FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110069.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Sky Witness SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110068.m3u8
+#EXTINF:0 tvg-id="SkyMoviesComedy.uk" group-title="Channels",UK: Sky Comedy FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110067.m3u8
+#EXTINF:0 tvg-id="SkyMoviesComedy.uk" group-title="Channels",UK: Sky Comedy SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110066.m3u8
+#EXTINF:0 tvg-id="Sky2.uk" group-title="Channels",UK: Sky Two SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110065.m3u8
+#EXTINF:0 tvg-id="W.uk" group-title="Channels",UK: W FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110064.m3u8
+#EXTINF:0 tvg-id="W.uk" group-title="Channels",UK: W SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110063.m3u8
+#EXTINF:0 tvg-id="GOLD.uk" group-title="Channels",UK: Gold FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110062.m3u8
+#EXTINF:0 tvg-id="GOLD.uk" group-title="Channels",UK: Gold SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110061.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK:  GOLD+1
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110432.m3u8
+#EXTINF:0 tvg-id="Dave.uk" group-title="Channels",UK: Dave FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110060.m3u8
+#EXTINF:0 tvg-id="Dave.uk" group-title="Channels",UK: Dave SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110059.m3u8
+#EXTINF:0 tvg-id="DaveJaVu.uk" group-title="Channels",UK: Dave ja vu SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110058.m3u8
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Channels",UK: Comedy Central FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110057.m3u8
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Channels",UK: Comedy Central SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110056.m3u8
+#EXTINF:0 tvg-id="ComedyCentralExtra.uk" group-title="Channels",UK: ComedyXtra SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110055.m3u8
+#EXTINF:0 tvg-id="BBC4.uk" group-title="Channels",UK: BBC Four SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110054.m3u8
+#EXTINF:0 tvg-id="BBCAlba.uk" group-title="Channels",UK: BBC ALBA SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110053.m3u8
+#EXTINF:0 tvg-id="ITV2.uk" group-title="Channels",UK: ITV2 FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110052.m3u8
+#EXTINF:0 tvg-id="ITV2.uk" group-title="Channels",UK: ITV2 SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110051.m3u8
+#EXTINF:0 tvg-id="ITV3.uk" group-title="Channels",UK: ITV3 FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110050.m3u8
+#EXTINF:0 tvg-id="ITV3.uk" group-title="Channels",UK: ITV3 SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110049.m3u8
+#EXTINF:0 tvg-id="ITV4.uk" group-title="Channels",UK: ITV4 FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110048.m3u8
+#EXTINF:0 tvg-id="ITV4.uk" group-title="Channels",UK: ITV4 SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110047.m3u8
+#EXTINF:0 tvg-id="ITVBe.uk" group-title="Channels",UK: ITVBe FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110046.m3u8
+#EXTINF:0 tvg-id="ITVBe.uk" group-title="Channels",UK: ITVBe SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110045.m3u8
+#EXTINF:0 tvg-id="SkyArts1.uk" group-title="Channels",UK: Sky Arts FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110044.m3u8
+#EXTINF:0 tvg-id="SkyArts1.uk" group-title="Channels",UK: Sky Arts SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110043.m3u8
+#EXTINF:0 tvg-id="FX.uk" group-title="Channels",UK: Fox FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110042.m3u8
+#EXTINF:0 tvg-id="FX.uk" group-title="Channels",UK: Fox SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110041.m3u8
+#EXTINF:0 tvg-id="MTV.uk" group-title="Channels",UK: MTV FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110040.m3u8
+#EXTINF:0 tvg-id="MTV.uk" group-title="Channels",UK: MTV SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110039.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: 5USA+1
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110038.m3u8
+#EXTINF:0 tvg-id="5star.uk" group-title="Channels",UK: 5 STAR SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110037.m3u8
+#EXTINF:0 tvg-id="FiveUSA.uk" group-title="Channels",UK: 5 USA SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110036.m3u8
+#EXTINF:0 tvg-id="5starplus1.uk" group-title="Channels",UK: 5 STAR+1 SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110035.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: 5 SELECT SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110034.m3u8
+#EXTINF:0 tvg-id="Alibi.uk" group-title="Channels",UK: alibi FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110033.m3u8
+#EXTINF:0 tvg-id="Alibi.uk" group-title="Channels",UK: alibi SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110032.m3u8
+#EXTINF:0 tvg-id="Alibiplus1.uk" group-title="Channels",UK: alibi+1 SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110031.m3u8
+#EXTINF:0 tvg-id="ForcesTV.uk" group-title="Channels",UK: Forces Tv
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110556.m3u8
+#EXTINF:0 tvg-id="TLC.uk" group-title="Channels",UK: TLC FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110030.m3u8
+#EXTINF:0 tvg-id="TLC.uk" group-title="Channels",UK: TLC SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110029.m3u8
+#EXTINF:0 tvg-id="E4.uk" group-title="Channels",UK: E4 FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110028.m3u8
+#EXTINF:0 tvg-id="E4.uk" group-title="Channels",UK: E4 SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110027.m3u8
+#EXTINF:0 tvg-id="More4.uk" group-title="Channels",UK: More4 FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110026.m3u8
+#EXTINF:0 tvg-id="4Seven.uk" group-title="Channels",UK: 4Seven FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110025.m3u8
+#EXTINF:0 tvg-id="Drama.uk" group-title="Channels",UK: Drama SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110024.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Drama+1 SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110023.m3u8
+#EXTINF:0 tvg-id="CBSReality.uk" group-title="Channels",UK: CBS Reality
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110022.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK+1 CBS Reality+1 SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110021.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: CBS Justice SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110020.m3u8
+#EXTINF:0 tvg-id="CBSDrama.uk" group-title="Channels",UK: CBS Drama SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110019.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Paramount FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110018.m3u8
+#EXTINF:0 tvg-id="Paramount.uk" group-title="Channels",UK: Paramount SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110017.m3u8
+#EXTINF:0 tvg-id="E.uk" group-title="Channels",UK: E! FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110016.m3u8
+#EXTINF:0 tvg-id="E.uk" group-title="Channels",UK: E! SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110015.m3u8
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="Channels",UK: Syfy FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110014.m3u8
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="Channels",UK: Syfy SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110013.m3u8
+#EXTINF:0 tvg-id="Yesterday.uk" group-title="Channels",UK: YESTERDAY SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110012.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK+1 YESTERDAY+1 SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110011.m3u8
+#EXTINF:0 tvg-id="SonyCrimeChannel.uk" group-title="Channels",UK: Sony Channel SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110010.m3u8
+#EXTINF:0 tvg-id="PickTV.uk" group-title="Channels",UK: PICK SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110009.m3u8
+#EXTINF:0 tvg-id="Challenge.uk" group-title="Channels",UK: Challenge SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110008.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Quest FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110007.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",QUEST+1 SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110006.m3u8
+#EXTINF:0 tvg-id="QuestRed.uk" group-title="Channels",UK: Quest Red SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110005.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Quest Red+1 SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110004.m3u8
+#EXTINF:0 tvg-id="Eden.uk" group-title="Channels",UK: Eden FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110003.m3u8
+#EXTINF:0 tvg-id="DiscoveryDMAX.uk" group-title="Channels",UK: DMAX SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110002.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: DMAX+1 SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110001.m3u8
+#EXTINF:0 tvg-id="Lifetime.uk" group-title="Channels",UK: Lifetime FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110000.m3u8
+#EXTINF:0 tvg-id="Lifetime.uk" group-title="Channels",UK: Lifetime SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/109999.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UKSD: Showcase SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/109998.m3u8
+#EXTINF:0 tvg-id="Really.uk" group-title="Channels",UK: Really SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/109997.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Court TV SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/109996.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: HGTV FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/109995.m3u8
+#EXTINF:0 tvg-id="HorrorChannel.uk" group-title="Channels",UK: Horror Channel SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/109994.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Horror Channel+1 SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/109993.m3u8
+#EXTINF:0 tvg-id="UTV.uk" group-title="Channels",UK: UTV FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/109988.m3u8
+#EXTINF:0 tvg-id="STV.uk" group-title="Channels",UK: STV FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/109987.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: mytv SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/109986.m3u8
+#EXTINF:0 tvg-id="BET.uk" group-title="Channels",UK: BET SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/109984.m3u8
+#EXTINF:0 tvg-id="FoodNetwork.uk" group-title="Channels",UK: Food Network HD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/109983.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Food Netwrk+1 SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/109982.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: LIVE 360 SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/109981.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Travelxp SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/109980.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK:  Sky Crime FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110116.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK:  Sky Crime SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110115.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Sky Nature FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110114.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Sky Nature SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110113.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Sky Documentaries FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110112.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Sky Documentaries SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110111.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Sky History FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110110.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Sky History SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110109.m3u8
+#EXTINF:0 tvg-id="H2.uk" group-title="Channels",UK:  H2 FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110108.m3u8
+#EXTINF:0 tvg-id="H2.uk" group-title="Channels",UK:  H2 SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110107.m3u8
+#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="Channels",UK: Animal Planet FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110106.m3u8
+#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="Channels",UK: Animal Planet SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110105.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Animal Plntet+1 SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110104.m3u8
+#EXTINF:0 tvg-id="Investigation.uk" group-title="Channels",UK: ID SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110103.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: ID+1 SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110102.m3u8
+#EXTINF:0 tvg-id="DiscoveryHD.uk" group-title="Channels",UK: Discovery FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110101.m3u8
+#EXTINF:0 tvg-id="Discovery.uk" group-title="Channels",UK: Discovery SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110100.m3u8
+#EXTINF:0 tvg-id="Discoveryplus1.uk" group-title="Channels",UK: Discovery+1 SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110099.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Disc.Turbo SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110097.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Disc.Turbo+1 SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110096.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Disc.Science SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110095.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Disc.History SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110094.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: National Geo FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110093.m3u8
+#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="Channels",UK: Nat Geo SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110092.m3u8
+#EXTINF:0 tvg-id="NatGeoWild.uk" group-title="Channels",UK: Nat Geo Wild FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110091.m3u8
+#EXTINF:0 tvg-id="NatGeoWild.uk" group-title="Channels",UK: Nat Geo Wild SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110090.m3u8
+#EXTINF:0 tvg-id="Yesterday.uk" group-title="Channels",UK: YESTERDAY SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110089.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: YESTERDAY+1 SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110088.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Smithsonian FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110087.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Crime Investigation FHD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110086.m3u8
+#EXTINF:0 tvg-id="CrimeAndInvestigationNetwork.uk" group-title="Channels",UK: Crime Investigation SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110085.m3u8
+#EXTINF:0 tvg-id="BLAZE.uk" group-title="Channels",UK: Blaze SD
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110084.m3u8
+#EXTINF:0 tvg-id="RTE1.ie" group-title="Channels",UK: RTE One
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110372.m3u8
+#EXTINF:0 tvg-id="RTE2.ie" group-title="Channels",UK: RTE Two
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110371.m3u8
+#EXTINF:0 tvg-id="RTEjr.uk" group-title="Channels",UK: Rte Jr
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110370.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: RTE_News
+http://main.flakez.art:80/live/loretta@live.com/eCHND62c/110369.m3u8
